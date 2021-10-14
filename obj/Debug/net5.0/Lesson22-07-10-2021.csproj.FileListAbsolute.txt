@@ -1,0 +1,16 @@
+D:\C#\Alif Acadmy\Lesson22-07-10-2021\bin\Debug\net5.0\Lesson22-07-10-2021.exe
+D:\C#\Alif Acadmy\Lesson22-07-10-2021\bin\Debug\net5.0\Lesson22-07-10-2021.deps.json
+D:\C#\Alif Acadmy\Lesson22-07-10-2021\bin\Debug\net5.0\Lesson22-07-10-2021.runtimeconfig.json
+D:\C#\Alif Acadmy\Lesson22-07-10-2021\bin\Debug\net5.0\Lesson22-07-10-2021.runtimeconfig.dev.json
+D:\C#\Alif Acadmy\Lesson22-07-10-2021\bin\Debug\net5.0\Lesson22-07-10-2021.dll
+D:\C#\Alif Acadmy\Lesson22-07-10-2021\bin\Debug\net5.0\ref\Lesson22-07-10-2021.dll
+D:\C#\Alif Acadmy\Lesson22-07-10-2021\bin\Debug\net5.0\Lesson22-07-10-2021.pdb
+D:\C#\Alif Acadmy\Lesson22-07-10-2021\obj\Debug\net5.0\Lesson22-07-10-2021.csproj.AssemblyReference.cache
+D:\C#\Alif Acadmy\Lesson22-07-10-2021\obj\Debug\net5.0\Lesson22-07-10-2021.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Alif Acadmy\Lesson22-07-10-2021\obj\Debug\net5.0\Lesson22-07-10-2021.AssemblyInfoInputs.cache
+D:\C#\Alif Acadmy\Lesson22-07-10-2021\obj\Debug\net5.0\Lesson22-07-10-2021.AssemblyInfo.cs
+D:\C#\Alif Acadmy\Lesson22-07-10-2021\obj\Debug\net5.0\Lesson22-07-10-2021.csproj.CoreCompileInputs.cache
+D:\C#\Alif Acadmy\Lesson22-07-10-2021\obj\Debug\net5.0\Lesson22-07-10-2021.dll
+D:\C#\Alif Acadmy\Lesson22-07-10-2021\obj\Debug\net5.0\ref\Lesson22-07-10-2021.dll
+D:\C#\Alif Acadmy\Lesson22-07-10-2021\obj\Debug\net5.0\Lesson22-07-10-2021.pdb
+D:\C#\Alif Acadmy\Lesson22-07-10-2021\obj\Debug\net5.0\Lesson22-07-10-2021.genruntimeconfig.cache
